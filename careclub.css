@@ -1,0 +1,53 @@
+head{
+	background-color: #ff0000;
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	font-weight: 700;
+}
+h2{
+	text-align: center;
+	text-decoration: overline;
+	padding-bottom: 20px;
+}
+h3{
+	text-align: center;
+	text-shadow: 2px 2px #f0f8ff;
+	padding-bottom: 40px;
+}
+img{
+	float: left;
+	padding-right: 20px;
+}
+figcaption{
+	font-size: 20px;
+}
+footer{
+	background-color: #f5f5dc;
+	color: #000000;
+	height: 100px;
+	padding-left: 20px;
+}
+.foot footer{
+	float: left;
+}
+.form footer{
+	text-align: center;
+	padding-left: 60px;
+}
+.members{
+	float: left;
+}
+.members img{
+	border-radius: 50%;
+}
+.memnext{
+	float: right;
+}
+.memnext img{
+	border-radius: 45%;
+}
+.g{
+	float: right;
+}

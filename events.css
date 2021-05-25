@@ -1,0 +1,13 @@
+h1{
+	text-align: center;
+	text-decoration-line: underline;
+}
+body style{
+	height: 100%;
+	background: url(events.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h3{
+	padding-left: 20px;
+}

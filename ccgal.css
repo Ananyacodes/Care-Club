@@ -1,0 +1,15 @@
+.forall{
+	text-align: center;
+	font-size: 60px;
+	font-style: italic;
+	text-decoration: underline;
+}
+.pd{
+	text-align: left;
+}
+img{
+	padding-bottom: 30px;
+}
+.gom{
+	float: right;
+}
